@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/dartmouth-cs52-18S/starterpack-smagnuson19.git"
   },
-  "author": "scottym <scott.a.magnuson.19@dartmouth.edu>",
+  "author": "scottm <scott.a.magnuson.19@dartmouth.edu>",
   "license": "MIT",
   "private": true,
   "scripts": {
