@@ -1,0 +1,39 @@
+[
+  {
+    "id": 0,
+    "name": "Yellow Banana",
+    "picture": "images/bananas.jpeg",
+    "country": "Nicaragua",
+    "quantity": "As Many as You want",
+    "price": "Ask at Register"
+
+  },
+  {
+    "id": 0,
+    "name": "Brown Banana",
+    "picture": "images/brown-bananas.jpeg",
+    "country": "Uruguay",
+    "quantity": "As Many as You want",
+    "price": "4"
+
+  },
+  {
+    "id": 0,
+    "name": "Green Banana",
+    "picture": "images/green-bananas.jpeg",
+    "country": "Haiti",
+    "quantity": "Wait Until they Are ready please",
+    "price": "Be Patient"
+
+  },
+  {
+    "id": 0,
+    "name": "Safety Cone (Banana)",
+    "picture": "images/safety-cone.jpeg",
+    "country": "A Fun way to stay safe while the floor is wet",
+    "quantity": "Save some fun for the rest of us",
+    "price": "A Lot"
+
+  }
+
+]
