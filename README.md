@@ -11,5 +11,16 @@ We learned solidity (programing language behind Ethereum) and how to create a Da
 ### What didn't work?
 We orignally planned to have the application use webpack and react as front-end. After following the tutorial on the Truffle website (pasted below) we attempted to switch over from pure js to the react framework. We ran into multiple difficulties and then decided to try and at least get the webpack working. We ran into more difficulties here and decided to focus on what we had created and then work within that strucutre to improve upon it. 
 
+### To Run
+- Fork this repo! 
+- Globally install truffle via `npm install -g truffle`. 
+- Install dependancies `npm install`.
+- Compile truffle code `truffle compile`
+- Download and get [ganache](https://truffleframework.com/ganache) running 
+- Migrate onto the chain `truffle migrate`
+- Test the contract (don't need to do) `truffle test`
+- deploy locally `npm run dev`
+- Use meta mask to interact with it locally via custom rpc given in ganache
+
 #### Tutorials used
 [Truffle Tutorial](https://truffleframework.com/tutorials/pet-shop)
